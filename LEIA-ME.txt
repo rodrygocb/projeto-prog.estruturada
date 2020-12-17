@@ -1,1 +1,3 @@
-Altere o caminho onde se localiza o banco de dados e as imagens no arquivo widget.cpp
+ATENÇÃO, O arquivo correspondente ao trabalho da 3°♦unidade é o proyecto1.2.pro
+
+Altere o caminho onde se localiza o banco de dados e as imagens no arquivo widget.cpp nas linhas 12 e 13.
