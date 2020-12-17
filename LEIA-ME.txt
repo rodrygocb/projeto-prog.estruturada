@@ -1,0 +1,1 @@
+Altere o caminho onde se localiza o banco de dados e as imagens no arquivo widget.cpp
